@@ -1,0 +1,8 @@
+
+
+Gemfile
+ command
+  bundler
+
+
+If done, remember # the File.write.
